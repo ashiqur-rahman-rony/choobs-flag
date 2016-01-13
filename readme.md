@@ -1,5 +1,4 @@
 # Choobs Flag
-**Contributors** choobs
 
 Show the flags of different countries within WordPress page or post using shortcode.
 
